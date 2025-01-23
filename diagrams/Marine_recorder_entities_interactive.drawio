@@ -1,12 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" scale="1" border="0" version="26.0.7">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2074" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2074" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="800" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <UserObject label="Survey" tags="SurveyEvent Surveyor SamplingPersonnel Method SampleEvent Physical BiotopeDetermination BiotopeDeterminer Replicate Sediment SedimentWentworth SedimentHalfPhi TaxonOccurrence MorphologyDetermination MorphologyDeterminer TaxonDetermination TaxonDeterminer PotentialDetermination BiotopeOccurrence" id="y6IDrpHAA0HTD7ALYUDz-1">
+        <UserObject label="Survey" tags="SurveyEvent Surveyor SamplingPersonnel Method SampleEvent Physical BiotopeDetermination BiotopeDeterminer Replicate Sediment SedimentWentworth SedimentHalfPhi TaxonOccurrence MorphologyDetermination MorphologyDeterminer TaxonDetermination TaxonDeterminer PotentialDetermination BiotopeOccurrence" link="data:action/json,{   &quot;title&quot;: &quot;Show SurveyEvent&quot;,   &quot;actions&quot;: [     {       &quot;tags&quot;: {         &quot;hidden&quot;: []       }     }   ] }" id="y6IDrpHAA0HTD7ALYUDz-1">
           <mxCell style="whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-            <mxGeometry x="160" y="160" width="100" height="40" as="geometry" />
+            <mxGeometry x="160" y="30" width="100" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" tags="Method MorphologyDetermination MorphologyDeterminer Replicate PotentialDetermination Sediment SedimentWentworth SedimentHalfPhi TaxonDetermination TaxonDeterminer TaxonOccurrence" id="y6IDrpHAA0HTD7ALYUDz-22">
@@ -22,7 +22,7 @@
         <UserObject label="" tags="SampleEvent Replicate Sediment SedimentHalfPhi SedimentWentworth SamplingPersonnel TaxonDetermination TaxonDeterminer TaxonOccurrence PotentialDetermination Physical MorphologyDeterminer MorphologyDetermination BiotopeDeterminer BiotopeDetermination BiotopeOccurrence" id="y6IDrpHAA0HTD7ALYUDz-27">
           <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="y6IDrpHAA0HTD7ALYUDz-2" edge="1">
             <mxGeometry relative="1" as="geometry">
-              <mxPoint x="210" y="320" as="targetPoint" />
+              <mxPoint x="210" y="190" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </UserObject>
@@ -48,7 +48,7 @@
         </UserObject>
         <UserObject label="Sample Event" tags="BiotopeDetermination BiotopeDeterminer Physical Replicate TaxonDetermination TaxonDeterminer TaxonOccurrence MorphologyDetermination MorphologyDeterminer PotentialDetermination SamplingPersonnel Sediment SedimentHalfPhi SedimentWentworth SampleEvent BiotopeOccurrence" link="data:action/json,{   &quot;title&quot;: &quot;Show SampleEvent&quot;,   &quot;actions&quot;: [     {       &quot;tags&quot;: {         &quot;visible&quot;: [           &quot;SampleEvent&quot;,           &quot;Button&quot;         ]       }     }   ] }" id="y6IDrpHAA0HTD7ALYUDz-3">
           <mxCell style="whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-            <mxGeometry x="160" y="320" width="100" height="40" as="geometry" />
+            <mxGeometry x="160" y="190" width="100" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" tags="Sediment SedimentHalfPhi SedimentWentworth" id="y6IDrpHAA0HTD7ALYUDz-31">
@@ -59,13 +59,13 @@
         <UserObject label="" tags="TaxonOccurrence TaxonDeterminer TaxonDetermination MorphologyDetermination MorphologyDeterminer PotentialDetermination" id="y6IDrpHAA0HTD7ALYUDz-32">
           <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="y6IDrpHAA0HTD7ALYUDz-4" edge="1">
             <mxGeometry relative="1" as="geometry">
-              <mxPoint x="390" y="480" as="targetPoint" />
+              <mxPoint x="390" y="350" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </UserObject>
         <UserObject label="Replicate" tags="Replicate Sediment SedimentHalfPhi SedimentWentworth TaxonDetermination TaxonDeterminer TaxonOccurrence PotentialDetermination MorphologyDetermination MorphologyDeterminer" link="data:action/json,{   &quot;title&quot;: &quot;Show Replicate&quot;,   &quot;actions&quot;: [     {       &quot;tags&quot;: {         &quot;visible&quot;: [           &quot;Replicate&quot;,           &quot;Button&quot;         ]       }     }   ] }" id="y6IDrpHAA0HTD7ALYUDz-4">
           <mxCell style="whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-            <mxGeometry x="340" y="400" width="100" height="40" as="geometry" />
+            <mxGeometry x="340" y="270" width="100" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" tags="TaxonDetermination TaxonDeterminer PotentialDetermination" id="y6IDrpHAA0HTD7ALYUDz-35">
@@ -80,7 +80,7 @@
         </UserObject>
         <UserObject label="Taxon Occurrence" tags="MorphologyDetermination MorphologyDeterminer PotentialDetermination TaxonDetermination TaxonDeterminer TaxonOccurrence" link="data:action/json,{   &quot;title&quot;: &quot;Show TaxonOccurrence&quot;,   &quot;actions&quot;: [     {       &quot;tags&quot;: {         &quot;visible&quot;: [           &quot;TaxonOccurrence&quot;,           &quot;Button&quot;         ]       }     }   ] }" id="y6IDrpHAA0HTD7ALYUDz-5">
           <mxCell style="whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-            <mxGeometry x="340" y="480" width="100" height="40" as="geometry" />
+            <mxGeometry x="340" y="350" width="100" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" tags="TaxonDeterminer" id="y6IDrpHAA0HTD7ALYUDz-37">
@@ -95,7 +95,7 @@
         </UserObject>
         <UserObject label="Taxon Determination" tags="TaxonDetermination TaxonDeterminer PotentialDetermination" link="data:action/json,{   &quot;title&quot;: &quot;Show TaxonDetermination&quot;,   &quot;actions&quot;: [     {       &quot;tags&quot;: {         &quot;visible&quot;: [           &quot;TaxonDetermination&quot;,           &quot;Button&quot;         ]       }     }   ] }" id="y6IDrpHAA0HTD7ALYUDz-6">
           <mxCell style="whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-            <mxGeometry x="270" y="560" width="100" height="40" as="geometry" />
+            <mxGeometry x="270" y="430" width="100" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" tags="MorphologyDeterminer" id="y6IDrpHAA0HTD7ALYUDz-38">
@@ -105,22 +105,22 @@
         </UserObject>
         <UserObject label="Morphology Determination" tags="MorphologyDetermination MorphologyDeterminer" link="data:action/json,{   &quot;title&quot;: &quot;Show MorphologyDetermination&quot;,   &quot;actions&quot;: [     {       &quot;tags&quot;: {         &quot;visible&quot;: [           &quot;MorphologyDetermination&quot;,           &quot;Button&quot;         ]       }     }   ] }" id="y6IDrpHAA0HTD7ALYUDz-7">
           <mxCell style="whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-            <mxGeometry x="400" y="560" width="100" height="40" as="geometry" />
+            <mxGeometry x="400" y="430" width="100" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Morphology Determiner" tags="MorphologyDeterminer" link="data:action/json,{   &quot;title&quot;: &quot;Show MorphologyDeterminer&quot;,   &quot;actions&quot;: [     {       &quot;tags&quot;: {         &quot;visible&quot;: [           &quot;MorphologyDeterminer&quot;,           &quot;Button&quot;         ]       }     }   ] }" id="y6IDrpHAA0HTD7ALYUDz-8">
           <mxCell style="whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-            <mxGeometry x="400" y="640" width="100" height="40" as="geometry" />
+            <mxGeometry x="400" y="510" width="100" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Taxon Determiner" tags="TaxonDeterminer" link="data:action/json,{   &quot;title&quot;: &quot;Show TaxonDeterminer&quot;,   &quot;actions&quot;: [     {       &quot;tags&quot;: {         &quot;visible&quot;: [           &quot;TaxonDeterminer&quot;,           &quot;Button&quot;         ]       }     }   ] }" id="y6IDrpHAA0HTD7ALYUDz-9">
           <mxCell style="whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-            <mxGeometry x="270" y="640" width="100" height="40" as="geometry" />
+            <mxGeometry x="270" y="510" width="100" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Potential Determination" tags="PotentialDetermination" link="data:action/json,{   &quot;title&quot;: &quot;Show PotentialDetermination&quot;,   &quot;actions&quot;: [     {       &quot;tags&quot;: {         &quot;visible&quot;: [           &quot;PotentialDetermination&quot;,           &quot;Button&quot;         ]       }     }   ] }" id="y6IDrpHAA0HTD7ALYUDz-10">
           <mxCell style="whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-            <mxGeometry x="150" y="560" width="100" height="40" as="geometry" />
+            <mxGeometry x="150" y="430" width="100" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" tags="Replicate TaxonOccurrence TaxonDeterminer TaxonDetermination SedimentWentworth SedimentHalfPhi Sediment PotentialDetermination MorphologyDetermination MorphologyDeterminer" id="y6IDrpHAA0HTD7ALYUDz-23">
@@ -130,41 +130,41 @@
         </UserObject>
         <UserObject label="Method" tags="Method MorphologyDetermination MorphologyDeterminer PotentialDetermination Replicate Sediment SedimentHalfPhi SedimentWentworth TaxonDetermination TaxonDeterminer TaxonOccurrence" link="data:action/json,{   &quot;title&quot;: &quot;Show Method&quot;,   &quot;actions&quot;: [     {       &quot;tags&quot;: {         &quot;visible&quot;: [           &quot;Method&quot;,           &quot;Button&quot;         ]       }     }   ] }" id="y6IDrpHAA0HTD7ALYUDz-11">
           <mxCell style="whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-            <mxGeometry x="340" y="240" width="100" height="40" as="geometry" />
+            <mxGeometry x="340" y="110" width="100" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" tags="SamplingPersonnel" id="y6IDrpHAA0HTD7ALYUDz-25">
           <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="y6IDrpHAA0HTD7ALYUDz-12" edge="1">
             <mxGeometry relative="1" as="geometry">
-              <mxPoint x="70" y="320" as="targetPoint" />
+              <mxPoint x="70" y="190" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </UserObject>
         <UserObject label="Surveyor" tags="SamplingPersonnel Surveyor" link="data:action/json,{   &quot;title&quot;: &quot;Show Surveyor&quot;,   &quot;actions&quot;: [     {       &quot;tags&quot;: {         &quot;visible&quot;: [           &quot;Surveyor&quot;,           &quot;Button&quot;         ]       }     }   ] }" id="y6IDrpHAA0HTD7ALYUDz-12">
           <mxCell style="whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-            <mxGeometry x="20" y="240" width="100" height="40" as="geometry" />
+            <mxGeometry x="20" y="110" width="100" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Sampling Personnel" tags="SamplingPersonnel" link="data:action/json,{   &quot;title&quot;: &quot;Show SamplingPersonnel&quot;,   &quot;actions&quot;: [     {       &quot;tags&quot;: {         &quot;visible&quot;: [           &quot;SamplingPersonnel&quot;,           &quot;Button&quot;         ]       }     }   ] }" id="y6IDrpHAA0HTD7ALYUDz-13">
           <mxCell style="whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-            <mxGeometry x="20" y="320" width="100" height="40" as="geometry" />
+            <mxGeometry x="20" y="190" width="100" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Physical" tags="Physical" link="data:action/json,{   &quot;title&quot;: &quot;Show Physical&quot;,   &quot;actions&quot;: [     {       &quot;tags&quot;: {         &quot;visible&quot;: [           &quot;Physical&quot;,           &quot;Button&quot;         ]       }     }   ] }" id="y6IDrpHAA0HTD7ALYUDz-14">
           <mxCell style="whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-            <mxGeometry x="160" y="400" width="100" height="40" as="geometry" />
+            <mxGeometry x="160" y="270" width="100" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" tags="BiotopeDetermination BiotopeDeterminer" id="y6IDrpHAA0HTD7ALYUDz-40">
           <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="y6IDrpHAA0HTD7ALYUDz-15" edge="1">
             <mxGeometry relative="1" as="geometry">
-              <mxPoint x="70" y="480" as="targetPoint" />
+              <mxPoint x="70" y="350" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </UserObject>
         <UserObject label="Biotope Occurrence" tags="BiotopeDetermination BiotopeDeterminer BiotopeOccurrence" link="data:action/json,{   &quot;title&quot;: &quot;Show BiotopeOccurrence&quot;,   &quot;actions&quot;: [     {       &quot;tags&quot;: {         &quot;visible&quot;: [           &quot;BiotopeOccurrence&quot;,           &quot;Button&quot;         ]       }     }   ] }" id="y6IDrpHAA0HTD7ALYUDz-15">
           <mxCell style="whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-            <mxGeometry x="20" y="400" width="100" height="40" as="geometry" />
+            <mxGeometry x="20" y="270" width="100" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" tags="BiotopeDeterminer" id="y6IDrpHAA0HTD7ALYUDz-41">
@@ -174,12 +174,12 @@
         </UserObject>
         <UserObject label="Biotope&amp;nbsp;&lt;div&gt;Determination&lt;/div&gt;" tags="BiotopeDeterminer BiotopeDetermination" link="data:action/json,{   &quot;title&quot;: &quot;Show BiotopeDetermination&quot;,   &quot;actions&quot;: [     {       &quot;tags&quot;: {         &quot;visible&quot;: [           &quot;BiotopeDetermination&quot;,           &quot;Button&quot;         ]       }     }   ] }" id="y6IDrpHAA0HTD7ALYUDz-16">
           <mxCell style="whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-            <mxGeometry x="20" y="480" width="100" height="40" as="geometry" />
+            <mxGeometry x="20" y="350" width="100" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Biotope&amp;nbsp;&lt;div&gt;Determiner&lt;/div&gt;" tags="BiotopeDeterminer" link="data:action/json,{   &quot;title&quot;: &quot;Show BiotopeDeterminer&quot;,   &quot;actions&quot;: [     {       &quot;tags&quot;: {         &quot;visible&quot;: [           &quot;BiotopeDeterminer&quot;,           &quot;Button&quot;         ]       }     }   ] }" id="y6IDrpHAA0HTD7ALYUDz-17">
           <mxCell style="whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-            <mxGeometry x="20" y="560" width="100" height="40" as="geometry" />
+            <mxGeometry x="20" y="430" width="100" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" tags="SedimentWentworth" id="y6IDrpHAA0HTD7ALYUDz-42">
@@ -194,22 +194,22 @@
         </UserObject>
         <UserObject label="Sediment" tags="Sediment SedimentHalfPhi SedimentWentworth" link="data:action/json,{   &quot;title&quot;: &quot;Show Sediment&quot;,   &quot;actions&quot;: [     {       &quot;tags&quot;: {         &quot;visible&quot;: [           &quot;Sediment&quot;,           &quot;Button&quot;         ]       }     }   ] }" id="y6IDrpHAA0HTD7ALYUDz-18">
           <mxCell style="whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-            <mxGeometry x="530" y="400" width="100" height="40" as="geometry" />
+            <mxGeometry x="530" y="270" width="100" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Sediment Wentworth" tags="SedimentWentworth" link="data:action/json,{   &quot;title&quot;: &quot;Show SedimentWentworth&quot;,   &quot;actions&quot;: [     {       &quot;tags&quot;: {         &quot;visible&quot;: [           &quot;SedimentWentworth&quot;,           &quot;Button&quot;         ]       }     }   ] }" id="y6IDrpHAA0HTD7ALYUDz-19">
           <mxCell style="whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-            <mxGeometry x="470" y="480" width="100" height="40" as="geometry" />
+            <mxGeometry x="470" y="350" width="100" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Sediment&lt;div&gt;Half Phi&lt;/div&gt;" tags="SedimentHalfPhi" link="data:action/json,{   &quot;title&quot;: &quot;Show SedimentHalfPhi&quot;,   &quot;actions&quot;: [     {       &quot;tags&quot;: {         &quot;visible&quot;: [           &quot;SedimentHalfPhi&quot;,           &quot;Button&quot;         ]       }     }   ] }" id="y6IDrpHAA0HTD7ALYUDz-20">
           <mxCell style="whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-            <mxGeometry x="580" y="480" width="100" height="40" as="geometry" />
+            <mxGeometry x="580" y="350" width="100" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" tags="SurveyEvent BiotopeDetermination BiotopeDeterminer Method MorphologyDetermination MorphologyDeterminer PotentialDetermination Physical Replicate SampleEvent SamplingPersonnel SedimentHalfPhi Sediment SedimentWentworth TaxonDetermination Surveyor TaxonDeterminer TaxonOccurrence BiotopeOccurrence" link="data:action/json,{   &quot;title&quot;: &quot;Show SurveyEvent&quot;,   &quot;actions&quot;: [     {       &quot;hide&quot;: {         &quot;cells&quot;: [           &quot;*&quot;         ]       }     },     {       &quot;show&quot;: {         &quot;tags&quot;: [           &quot;SurveyEvent&quot;         ]       }     }   ] }" id="244xRMr5pDHqSf5sY2yH-2">
           <mxCell style="group" vertex="1" connectable="0" parent="1">
-            <mxGeometry x="160" y="240" width="100" height="40" as="geometry" />
+            <mxGeometry x="160" y="110" width="100" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Survey Event" tags="BiotopeDetermination BiotopeDeterminer Method MorphologyDetermination MorphologyDeterminer Physical PotentialDetermination Replicate SampleEvent SamplingPersonnel Sediment SedimentHalfPhi SedimentWentworth Surveyor TaxonDetermination TaxonOccurrence TaxonDeterminer SurveyEvent BiotopeOccurrence" link="data:action/json,{   &quot;title&quot;: &quot;Show SurveyEvent&quot;,   &quot;actions&quot;: [     {       &quot;tags&quot;: {         &quot;visible&quot;: [           &quot;SurveyEvent&quot;,           &quot;Button&quot;         ]       }     }   ] }" id="y6IDrpHAA0HTD7ALYUDz-2">
@@ -224,22 +224,17 @@
         </UserObject>
         <UserObject label="Person" tags="MorphologyDeterminer BiotopeDeterminer SamplingPersonnel TaxonDeterminer Surveyor" id="244xRMr5pDHqSf5sY2yH-6">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-            <mxGeometry x="690" y="230" width="120" height="60" as="geometry" />
+            <mxGeometry x="690" y="100" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Organisation" tags="TaxonDeterminer Surveyor SamplingPersonnel MorphologyDeterminer BiotopeDeterminer" id="244xRMr5pDHqSf5sY2yH-7">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-            <mxGeometry x="690" y="160" width="120" height="60" as="geometry" />
+            <mxGeometry x="690" y="30" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Location" tags="SurveyEvent SampleEvent Physical PotentialDetermination Replicate MorphologyDetermination MorphologyDeterminer Method Button BiotopeOccurrence BiotopeDeterminer BiotopeDetermination Sediment SedimentHalfPhi SedimentWentworth TaxonDetermination TaxonDeterminer TaxonOccurrence" id="244xRMr5pDHqSf5sY2yH-8">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-            <mxGeometry x="690" y="300" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Reset..." link="data:action/json,{   &quot;title&quot;: &quot;Show SurveyEvent&quot;,   &quot;actions&quot;: [     {       &quot;tags&quot;: {         &quot;hidden&quot;: []       }     }   ] }" id="244xRMr5pDHqSf5sY2yH-10">
-          <mxCell style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-            <mxGeometry x="10" y="110" width="180" height="40" as="geometry" />
+            <mxGeometry x="690" y="170" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
